@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="DOCS/assets/dealcraft-ai-logo.png" alt="DealCraft AI" width="420">
+</p>
+
 # DealCraft AI
 
 > Transforme oportunidades comerciais em propostas estruturadas, consistentes e prontas para decisão.
