@@ -1,0 +1,304 @@
+{
+  "brand": {
+    "company_name": "NEXORA CONSULTING",
+    "product_name": "DealCraft AI",
+    "tagline": "Data · AI · Growth · Automation",
+    "brand_personality": [
+      "estratégica",
+      "tecnológica",
+      "executiva",
+      "objetiva",
+      "confiável"
+    ]
+  },
+
+  "document": {
+    "format": "A4",
+    "orientation": "portrait",
+    "language_default": "pt-BR",
+    "margins_cm": {
+      "top": 2.2,
+      "bottom": 2.0,
+      "left": 2.3,
+      "right": 2.3
+    }
+  },
+
+  "colors": {
+    "primary": {
+      "name": "Nexora Navy",
+      "hex": "#14213D",
+      "usage": [
+        "títulos principais",
+        "cabeçalhos",
+        "elementos institucionais"
+      ]
+    },
+    "secondary": {
+      "name": "Nexora Blue",
+      "hex": "#2563EB",
+      "usage": [
+        "destaques",
+        "números de seção",
+        "elementos gráficos",
+        "chamadas"
+      ]
+    },
+    "accent": {
+      "name": "Nexora Cyan",
+      "hex": "#06B6D4",
+      "usage": [
+        "detalhes visuais",
+        "indicadores",
+        "elementos de apoio"
+      ]
+    },
+    "text": {
+      "name": "Graphite",
+      "hex": "#1F2937"
+    },
+    "muted_text": {
+      "name": "Slate",
+      "hex": "#64748B"
+    },
+    "light_background": {
+      "name": "Cloud",
+      "hex": "#F8FAFC"
+    },
+    "border": {
+      "name": "Light Gray",
+      "hex": "#E2E8F0"
+    },
+    "white": {
+      "hex": "#FFFFFF"
+    }
+  },
+
+  "typography": {
+    "primary_font": "Aptos",
+    "fallback_fonts": [
+      "Arial",
+      "Calibri",
+      "sans-serif"
+    ],
+
+    "title": {
+      "font_size_pt": 26,
+      "bold": true,
+      "color": "#14213D"
+    },
+
+    "subtitle": {
+      "font_size_pt": 15,
+      "bold": false,
+      "color": "#2563EB"
+    },
+
+    "section_heading": {
+      "font_size_pt": 16,
+      "bold": true,
+      "color": "#14213D"
+    },
+
+    "subsection_heading": {
+      "font_size_pt": 12,
+      "bold": true,
+      "color": "#2563EB"
+    },
+
+    "body": {
+      "font_size_pt": 10.5,
+      "bold": false,
+      "color": "#1F2937",
+      "line_spacing": 1.15
+    },
+
+    "caption": {
+      "font_size_pt": 8.5,
+      "color": "#64748B"
+    }
+  },
+
+  "cover": {
+    "company_name": {
+      "uppercase": true,
+      "font_size_pt": 14,
+      "bold": true,
+      "color": "#14213D"
+    },
+
+    "tagline": {
+      "font_size_pt": 9,
+      "color": "#64748B"
+    },
+
+    "proposal_label": {
+      "text": "PROPOSTA COMERCIAL",
+      "font_size_pt": 10,
+      "bold": true,
+      "color": "#2563EB"
+    },
+
+    "client_name": {
+      "font_size_pt": 28,
+      "bold": true,
+      "color": "#14213D"
+    },
+
+    "solution_title": {
+      "font_size_pt": 16,
+      "bold": true,
+      "color": "#1F2937"
+    }
+  },
+
+  "header": {
+    "enabled": true,
+    "left_text": "NEXORA CONSULTING",
+    "right_text": "DealCraft AI",
+    "font_size_pt": 8,
+    "color": "#64748B",
+    "show_from_page": 2
+  },
+
+  "footer": {
+    "enabled": true,
+    "left_text": "NEXORA CONSULTING · Data · AI · Growth · Automation",
+    "center_text": "CONFIDENCIAL",
+    "show_page_number": true,
+    "page_number_format": "Página {page}",
+    "font_size_pt": 8,
+    "color": "#64748B"
+  },
+
+  "sections": {
+    "numbering_style": "two_digits",
+
+    "required": [
+      {
+        "number": "01",
+        "title": "Contexto e oportunidade"
+      },
+      {
+        "number": "02",
+        "title": "Solução proposta"
+      },
+      {
+        "number": "03",
+        "title": "Escopo e entregáveis"
+      },
+      {
+        "number": "04",
+        "title": "Cronograma"
+      },
+      {
+        "number": "05",
+        "title": "Investimento"
+      },
+      {
+        "number": "06",
+        "title": "Próximos passos"
+      }
+    ]
+  },
+
+  "section_design": {
+    "number": {
+      "font_size_pt": 9,
+      "bold": true,
+      "color": "#06B6D4"
+    },
+
+    "title": {
+      "font_size_pt": 16,
+      "bold": true,
+      "color": "#14213D"
+    },
+
+    "separator": {
+      "enabled": true,
+      "color": "#E2E8F0",
+      "width_pt": 0.75
+    }
+  },
+
+  "tables": {
+    "header": {
+      "background_color": "#14213D",
+      "text_color": "#FFFFFF",
+      "bold": true,
+      "font_size_pt": 9
+    },
+
+    "body": {
+      "background_color": "#FFFFFF",
+      "alternate_row_color": "#F8FAFC",
+      "text_color": "#1F2937",
+      "font_size_pt": 9
+    },
+
+    "border": {
+      "color": "#E2E8F0",
+      "width_pt": 0.5
+    },
+
+    "cell_padding_pt": 6
+  },
+
+  "commercial_highlights": {
+    "total_investment": {
+      "background_color": "#14213D",
+      "text_color": "#FFFFFF",
+      "font_size_pt": 13,
+      "bold": true
+    },
+
+    "discount": {
+      "color": "#2563EB",
+      "bold": true
+    },
+
+    "warning": {
+      "label": "ATENÇÃO",
+      "background_color": "#F8FAFC",
+      "border_color": "#06B6D4",
+      "text_color": "#1F2937"
+    }
+  },
+
+  "writing_style": {
+    "tone": [
+      "executivo",
+      "consultivo",
+      "claro",
+      "objetivo"
+    ],
+
+    "rules": [
+      "Priorizar linguagem de negócio.",
+      "Evitar jargão técnico desnecessário.",
+      "Relacionar cada solução a uma necessidade identificada.",
+      "Não apresentar benefícios estimados como resultados garantidos.",
+      "Não utilizar linguagem promocional exagerada.",
+      "Utilizar parágrafos curtos e escaneáveis.",
+      "Priorizar clareza sobre complexidade."
+    ]
+  },
+
+  "visual_rules": {
+    "use_excessive_colors": false,
+    "use_gradients": false,
+    "use_decorative_icons": false,
+    "use_emojis": false,
+    "use_drop_shadows": false,
+    "preferred_alignment": "left",
+    "white_space": "generous",
+    "overall_style": "minimalist executive technology consulting"
+  },
+
+  "file_generation": {
+    "output_format": "docx",
+    "output_directory": "outputs",
+    "filename_pattern": "Proposta-[NUMERO]-[ANO]-[CLIENTE]-NEXORA-CONSULTING.docx"
+  }
+}

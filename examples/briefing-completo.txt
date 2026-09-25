@@ -1,0 +1,206 @@
+BRIEFING COMERCIAL — NEXORA CONSULTING
+
+Data do briefing: 25/09/2026
+
+============================================================
+1. CLIENTE
+============================================================
+
+Razão social: TechNova Distribuição Ltda.
+Setor: Distribuição de equipamentos de tecnologia
+Porte: Médio porte
+Localização: Rio de Janeiro - RJ
+
+Contato principal: Mariana Costa
+Cargo: Diretora Comercial
+E-mail: mariana.costa@technova-exemplo.com
+Telefone: (21) 99999-0000
+
+============================================================
+2. CENÁRIO ATUAL
+============================================================
+
+A TechNova Distribuição possui uma equipe comercial formada por
+18 profissionais responsáveis pelo atendimento de clientes B2B.
+
+Atualmente, o acompanhamento de leads, oportunidades e negociações
+é realizado por meio de planilhas individuais e troca de informações
+por e-mail.
+
+A empresa não possui uma visão consolidada do pipeline comercial.
+
+Os gestores relatam dificuldade para acompanhar:
+
+- quantidade de oportunidades abertas;
+- estágio de cada negociação;
+- atividades realizadas pelos vendedores;
+- follow-ups pendentes;
+- motivos de perda;
+- previsibilidade do pipeline;
+- indicadores de desempenho da equipe.
+
+============================================================
+3. PRINCIPAL PROBLEMA
+============================================================
+
+A ausência de um processo comercial centralizado dificulta o controle
+das oportunidades e aumenta a dependência de controles manuais.
+
+Informações comerciais estão distribuídas entre planilhas, caixas de
+e-mail e registros individuais dos vendedores.
+
+A diretoria deseja reduzir essa fragmentação e melhorar a gestão do
+processo comercial.
+
+============================================================
+4. OBJETIVO DO PROJETO
+============================================================
+
+Estruturar um processo comercial centralizado utilizando CRM e automação,
+permitindo melhor acompanhamento das oportunidades e das atividades da
+equipe de vendas.
+
+A empresa também deseja criar indicadores comerciais para acompanhamento
+da operação pela diretoria.
+
+============================================================
+5. IMPACTO DO PROBLEMA
+============================================================
+
+Segundo a diretoria comercial, a falta de centralização provoca:
+
+- dificuldade para acompanhar negociações em andamento;
+- perda de histórico comercial;
+- follow-ups realizados de forma inconsistente;
+- retrabalho na consolidação de informações;
+- dificuldade para analisar a performance do pipeline.
+
+Não foi informado impacto financeiro específico.
+
+============================================================
+6. URGÊNCIA E PRAZO
+============================================================
+
+Urgência: Alta.
+
+A diretoria deseja iniciar o projeto nas próximas semanas.
+
+Prazo desejado para implantação: até 60 dias corridos.
+
+============================================================
+7. ORÇAMENTO
+============================================================
+
+Orçamento disponível informado pelo cliente:
+
+R$ 60.000,00
+
+============================================================
+8. PROCESSO DECISÓRIO
+============================================================
+
+Decisora principal:
+
+Mariana Costa — Diretora Comercial.
+
+Influenciador:
+
+Ricardo Almeida — Gerente de Tecnologia.
+
+Critérios de decisão informados:
+
+- aderência ao processo comercial;
+- facilidade de utilização pela equipe;
+- capacidade de automação;
+- disponibilidade de indicadores;
+- prazo de implantação;
+- investimento.
+
+Concorrentes avaliados:
+
+Não informado.
+
+============================================================
+9. SOLUÇÃO DISCUTIDA
+============================================================
+
+Serviço discutido com o cliente:
+
+CRM & Automação Comercial.
+
+Escopo preliminar:
+
+- diagnóstico do processo comercial atual;
+- desenho do pipeline de vendas;
+- configuração ou otimização do CRM;
+- estruturação das etapas comerciais;
+- automação de tarefas e follow-ups;
+- criação de dashboards comerciais;
+- treinamento da equipe.
+
+Prazo proposto:
+
+60 dias corridos.
+
+Investimento proposto:
+
+R$ 60.000,00
+
+Desconto:
+
+Não aplicável.
+
+============================================================
+10. PREMISSAS
+============================================================
+
+- O cliente disponibilizará acesso às informações necessárias para
+  configuração do processo comercial.
+
+- Os responsáveis das áreas comercial e tecnologia participarão das
+  reuniões de levantamento e validação.
+
+- Eventuais licenças de software de terceiros não estão incluídas no
+  investimento da consultoria.
+
+============================================================
+11. EXCLUSÕES
+============================================================
+
+Não estão incluídos:
+
+- aquisição de licenças de CRM;
+- desenvolvimento de funcionalidades fora do escopo validado;
+- integrações com sistemas não identificadas durante o levantamento inicial;
+- migração de dados históricos que exija tratamento extraordinário.
+
+============================================================
+12. PRÓXIMO PASSO COMERCIAL
+============================================================
+
+Próximo passo:
+
+Apresentação da proposta comercial para a Diretora Comercial e para
+o Gerente de Tecnologia.
+
+Data prevista:
+
+30/09/2026
+
+============================================================
+13. CONTROLE INTERNO
+============================================================
+
+Número da proposta: 001
+Ano: 2026
+
+Consultor responsável: Daniel Martins
+E-mail do consultor: daniel.martins@nexora-exemplo.com
+
+Data de emissão prevista: 26/09/2026
+
+Idioma: Português do Brasil
+
+Observações internas:
+
+A oportunidade foi originada por indicação de um cliente da consultoria.

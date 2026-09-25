@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "company": "NEXORA CONSULTING",
+    "catalog_name": "Catálogo Oficial de Serviços",
+    "version": "1.0",
+    "year": 2026,
+    "currency": "BRL",
+    "language": "pt-BR"
+  },
+
+  "commercial_policy": {
+    "proposal_validity_days": 30,
+
+    "payment_terms": [
+      {
+        "installment": 1,
+        "percentage": 30,
+        "event": "contratação"
+      },
+      {
+        "installment": 2,
+        "percentage": 40,
+        "event": "marco intermediário"
+      },
+      {
+        "installment": 3,
+        "percentage": 30,
+        "event": "entrega"
+      }
+    ],
+
+    "discount_policy": {
+      "minimum_services_required": 2,
+      "minimum_discount_percent": 5,
+      "maximum_discount_percent": 15
+    },
+
+    "commercial_review": {
+      "threshold_brl": 200000,
+      "status_when_triggered": "PENDENTE DE APROVAÇÃO COMERCIAL"
+    }
+  },
+
+  "services": [
+    {
+      "id": "SVC-001",
+      "name": "Diagnóstico de Transformação Digital",
+      "description": "Diagnóstico dos processos, sistemas, dados e nível de maturidade digital da organização, identificando gargalos, riscos e oportunidades de transformação.",
+
+      "deliverables": [
+        "Diagnóstico do cenário atual (AS-IS)",
+        "Identificação de gaps",
+        "Mapa de oportunidades",
+        "Matriz de priorização por impacto e esforço",
+        "Recomendações de melhoria",
+        "Roadmap de transformação digital"
+      ],
+
+      "duration": {
+        "minimum_days": 10,
+        "maximum_days": 20,
+        "unit": "calendar_days"
+      },
+
+      "investment": {
+        "minimum_brl": 12000,
+        "maximum_brl": 25000
+      },
+
+      "active": true
+    },
+
+    {
+      "id": "SVC-002",
+      "name": "CRM & Automação Comercial",
+      "description": "Estruturação ou evolução do processo comercial utilizando CRM e automação para melhorar a gestão de leads, oportunidades, clientes e atividades da equipe comercial.",
+
+      "deliverables": [
+        "Diagnóstico do processo comercial",
+        "Desenho do pipeline de vendas",
+        "Configuração ou otimização do CRM",
+        "Estruturação das etapas comerciais",
+        "Automação de tarefas e follow-ups",
+        "Dashboards e indicadores comerciais",
+        "Treinamento da equipe"
+      ],
+
+      "duration": {
+        "minimum_days": 30,
+        "maximum_days": 60,
+        "unit": "calendar_days"
+      },
+
+      "investment": {
+        "minimum_brl": 30000,
+        "maximum_brl": 70000
+      },
+
+      "active": true
+    },
+
+    {
+      "id": "SVC-003",
+      "name": "Marketing & Growth Intelligence",
+      "description": "Estruturação de marketing orientado a dados para aquisição, conversão, retenção e crescimento.",
+
+      "deliverables": [
+        "Diagnóstico de marketing",
+        "Definição de KPIs",
+        "Estruturação do funil",
+        "Plano de aquisição",
+        "Estratégia de Growth",
+        "Modelo de acompanhamento de performance",
+        "Dashboard de marketing"
+      ],
+
+      "duration": {
+        "minimum_days": 30,
+        "maximum_days": 60,
+        "unit": "calendar_days"
+      },
+
+      "investment": {
+        "minimum_brl": 25000,
+        "maximum_brl": 60000
+      },
+
+      "active": true
+    },
+
+    {
+      "id": "SVC-004",
+      "name": "Data Analytics & BI",
+      "description": "Implementação de soluções analíticas para transformar dados operacionais, comerciais e de marketing em informações para tomada de decisão.",
+
+      "deliverables": [
+        "Mapeamento das fontes de dados",
+        "Definição de KPIs",
+        "Modelagem e tratamento dos dados",
+        "Dashboards executivos",
+        "Automação de relatórios",
+        "Documentação da solução",
+        "Capacitação dos usuários"
+      ],
+
+      "duration": {
+        "minimum_days": 30,
+        "maximum_days": 75,
+        "unit": "calendar_days"
+      },
+
+      "investment": {
+        "minimum_brl": 35000,
+        "maximum_brl": 85000
+      },
+
+      "active": true
+    },
+
+    {
+      "id": "SVC-005",
+      "name": "Automação com Inteligência Artificial",
+      "description": "Automação de processos empresariais utilizando inteligência artificial generativa e tecnologias de automação.",
+
+      "deliverables": [
+        "Mapeamento do processo atual",
+        "Identificação de oportunidades de automação",
+        "Desenho da solução",
+        "Desenvolvimento e configuração",
+        "Integração com sistemas existentes",
+        "Testes e validação",
+        "Documentação",
+        "Treinamento dos usuários"
+      ],
+
+      "duration": {
+        "minimum_days": 30,
+        "maximum_days": 90,
+        "unit": "calendar_days"
+      },
+
+      "investment": {
+        "minimum_brl": 40000,
+        "maximum_brl": 120000
+      },
+
+      "active": true
+    },
+
+    {
+      "id": "SVC-006",
+      "name": "Agentes de IA para Negócios",
+      "description": "Desenvolvimento de agentes de inteligência artificial especializados em processos empresariais e conectados às bases de conhecimento e regras de negócio da organização.",
+
+      "use_cases": [
+        "Agente comercial",
+        "Agente de atendimento",
+        "Agente de marketing",
+        "Agente de análise de documentos",
+        "Agente de conhecimento interno",
+        "Agente para geração de propostas",
+        "Agente para suporte a processos operacionais"
+      ],
+
+      "deliverables": [
+        "Diagnóstico do caso de uso",
+        "Arquitetura funcional do agente",
+        "Estruturação da base de conhecimento",
+        "Definição das regras de negócio",
+        "Desenvolvimento e configuração",
+        "Testes e validação",
+        "Documentação",
+        "Capacitação dos usuários"
+      ],
+
+      "duration": {
+        "minimum_days": 30,
+        "maximum_days": 75,
+        "unit": "calendar_days"
+      },
+
+      "investment": {
+        "minimum_brl": 45000,
+        "maximum_brl": 110000
+      },
+
+      "active": true
+    },
+
+    {
+      "id": "SVC-007",
+      "name": "Integração de Sistemas & Dados",
+      "description": "Integração de plataformas empresariais para eliminar silos de informação, reduzir atividades manuais e melhorar o fluxo de dados entre sistemas.",
+
+      "technologies_and_scenarios": [
+        "CRM",
+        "ERP",
+        "APIs REST",
+        "Bancos de dados",
+        "Plataformas de marketing",
+        "Sistemas legados",
+        "Ferramentas de automação",
+        "Aplicações de inteligência artificial"
+      ],
+
+      "deliverables": [
+        "Mapeamento das integrações",
+        "Arquitetura da solução",
+        "Desenvolvimento dos conectores",
+        "Testes de integração",
+        "Monitoramento",
+        "Documentação técnica"
+      ],
+
+      "duration": {
+        "minimum_days": 30,
+        "maximum_days": 90,
+        "unit": "calendar_days"
+      },
+
+      "investment": {
+        "minimum_brl": 40000,
+        "maximum_brl": 100000
+      },
+
+      "active": true
+    },
+
+    {
+      "id": "SVC-008",
+      "name": "Capacitação & AI Enablement",
+      "description": "Capacitação de equipes para utilização produtiva, segura e responsável de inteligência artificial, dados e automação.",
+
+      "formats": [
+        "Workshops executivos",
+        "Treinamento de equipes",
+        "Capacitação em IA generativa",
+        "Prompt Engineering",
+        "Automação de processos",
+        "Uso responsável de IA",
+        "Capacitação para ferramentas de dados"
+      ],
+
+      "deliverables": [
+        "Diagnóstico das necessidades de capacitação",
+        "Plano de treinamento",
+        "Workshops ou sessões práticas",
+        "Material de apoio",
+        "Exercícios aplicados ao negócio",
+        "Recomendações de continuidade"
+      ],
+
+      "duration": {
+        "minimum_days": 5,
+        "maximum_days": 20,
+        "unit": "project_days"
+      },
+
+      "investment": {
+        "minimum_brl": 10000,
+        "maximum_brl": 30000
+      },
+
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+# ==========================================
+# DealCraft AI
+# Git Ignore
+# ==========================================
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python tooling / tests
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Generated proposals
+outputs/*.docx
+
+# Keep the outputs directory available in Git
+!outputs/.gitkeep
