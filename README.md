@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="DOCS/assets/dealcraft-ai-icon.png" alt="DealCraft AI" width="420">
+  <img src="DOCS/assets/dealcraft-ai-icon.png" alt="DealCraft AI" width="420"> 
 </p>
 
 # DealCraft AI
