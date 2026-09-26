@@ -1,61 +1,61 @@
 ﻿<p align="center">
-  <img src="DOCS/assets/dealcraft-ai-icon.png" alt="DealCraft AI" width="420"> 
+  <img src="DOCS/assets/dealcraft-ai-icon.png" alt="DealCraft AI" width="420">
 </p>
 
 # DealCraft AI
 
-> Transforme oportunidades comerciais em propostas estruturadas, consistentes e prontas para decisÃ£o.
+> Transforme oportunidades comerciais em propostas estruturadas, consistentes e prontas para decisão.
 
-**DealCraft AI** Ã© um sistema de apoio Ã  estruturaÃ§Ã£o de oportunidades comerciais B2B e Ã  geraÃ§Ã£o controlada de propostas comerciais.
+**DealCraft AI** é um sistema de apoio à estruturação de oportunidades comerciais B2B e à geração controlada de propostas comerciais.
 
-O projeto transforma informaÃ§Ãµes de um briefing comercial em uma oportunidade estruturada, avalia sua completude, identifica lacunas, valida regras comerciais e somente permite a geraÃ§Ã£o da proposta quando os requisitos necessÃ¡rios forem atendidos.
+O projeto transforma informações de um briefing comercial em uma oportunidade estruturada, avalia sua completude, identifica lacunas, valida regras comerciais e somente permite a geração da proposta quando os requisitos necessários forem atendidos.
 
-A soluÃ§Ã£o foi projetada com um princÃ­pio central:
+A solução foi projetada com um princípio central:
 
-> **A IA pode apoiar a estruturaÃ§Ã£o da oportunidade, mas nÃ£o deve inventar informaÃ§Ãµes comerciais nem substituir a decisÃ£o humana.**
+> **A IA pode apoiar a estruturação da oportunidade, mas não deve inventar informações comerciais nem substituir a decisão humana.**
 
 ---
 
-## VisÃ£o geral
+## Visão geral
 
-Em processos comerciais B2B, propostas frequentemente sÃ£o construÃ­das a partir de informaÃ§Ãµes dispersas em reuniÃµes, anotaÃ§Ãµes, e-mails e briefings.
+Em processos comerciais B2B, propostas frequentemente são construídas a partir de informações dispersas em reuniões, anotações, e-mails e briefings.
 
 Isso pode gerar problemas como:
 
-- informaÃ§Ãµes importantes ausentes;
+- informações importantes ausentes;
 - propostas criadas antes do entendimento adequado da oportunidade;
-- preÃ§os fora das faixas comerciais;
+- preços fora das faixas comerciais;
 - descontos inconsistentes;
-- prazos incompatÃ­veis com o serviÃ§o;
-- ausÃªncia de informaÃ§Ãµes sobre o processo decisÃ³rio;
-- geraÃ§Ã£o de propostas baseada em suposiÃ§Ãµes;
-- falta de padronizaÃ§Ã£o entre diferentes oportunidades.
+- prazos incompatíveis com o serviço;
+- ausência de informações sobre o processo decisório;
+- geração de propostas baseada em suposições;
+- falta de padronização entre diferentes oportunidades.
 
 O DealCraft AI foi desenvolvido para organizar esse processo.
 
-Antes de gerar qualquer documento comercial, o sistema verifica se existem informaÃ§Ãµes suficientes e se a oportunidade respeita as regras definidas pela empresa.
+Antes de gerar qualquer documento comercial, o sistema verifica se existem informações suficientes e se a oportunidade respeita as regras definidas pela empresa.
 
 ---
 
 ## Objetivo
 
-O objetivo do DealCraft AI Ã© transformar:
+O objetivo do DealCraft AI é transformar:
 
 ```text
 Briefing comercial
-        â†“
+        ↓
 Oportunidade estruturada
-        â†“
-ValidaÃ§Ã£o
-        â†“
+        ↓
+Validação
+        ↓
 Proposta comercial
 ```
 
-em um processo controlado, rastreÃ¡vel e orientado por regras.
+em um processo controlado, rastreável e orientado por regras.
 
-O sistema nÃ£o tenta prever se uma venda serÃ¡ fechada.
+O sistema não tenta prever se uma venda será fechada.
 
-Ele verifica se existem **informaÃ§Ãµes suficientes para estruturar corretamente a oportunidade comercial**.
+Ele verifica se existem **informações suficientes para estruturar corretamente a oportunidade comercial**.
 
 ---
 
@@ -63,54 +63,54 @@ Ele verifica se existem **informaÃ§Ãµes suficientes para estruturar corretam
 
 ```text
                  DEALCRAFT AI
-                      â”‚
-               â”Œâ”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”
-               â”‚             â”‚
+                      │
+               ┌──────┴──────┐
+               │             │
            BRIEFING      GUIA 5 ETAPAS
-               â”‚             â”‚
-               â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”˜
-                      â†“
+               │             │
+               └──────┬──────┘
+                      ↓
               DATA EXTRACTION
-                      â†“
+                      ↓
             OPPORTUNITY MODEL
-                      â†“
+                      ↓
           OPPORTUNITY READINESS
-                      â†“
+                      ↓
                GAP ANALYSIS
-                      â†“
+                      ↓
            SOLUTION MATCHING
-                      â†“
+                      ↓
         COMMERCIAL RULES ENGINE
-                      â†“
+                      ↓
              EXECUTIVE SUMMARY
-                      â†“
+                      ↓
               USER APPROVAL
-                      â†“
+                      ↓
            PROPOSAL GENERATION
-                      â†“
+                      ↓
                    .DOCX
 ```
 
-A arquitetura separa claramente trÃªs responsabilidades:
+A arquitetura separa claramente três responsabilidades:
 
-**estruturaÃ§Ã£o da informaÃ§Ã£o â†’ validaÃ§Ã£o comercial â†’ geraÃ§Ã£o documental**
+**estruturação da informação → validação comercial → geração documental**
 
-Essa separaÃ§Ã£o reduz o risco de gerar propostas baseadas em informaÃ§Ãµes incompletas ou inconsistentes.
+Essa separação reduz o risco de gerar propostas baseadas em informações incompletas ou inconsistentes.
 
 ---
 
 # Opportunity Model
 
-O DealCraft AI organiza uma oportunidade comercial em cinco grupos de informaÃ§Ã£o.
+O DealCraft AI organiza uma oportunidade comercial em cinco grupos de informação.
 
-## A â€” Cliente
+## A — Cliente
 
-| Campo | InformaÃ§Ã£o |
+| Campo | Informação |
 |---|---|
-| A1 | RazÃ£o social |
+| A1 | Razão social |
 | A2 | Setor |
 | A3 | Porte |
-| A4 | LocalizaÃ§Ã£o |
+| A4 | Localização |
 | A5 | Contato principal |
 | A6 | Cargo |
 | A7 | E-mail |
@@ -118,186 +118,186 @@ O DealCraft AI organiza uma oportunidade comercial em cinco grupos de informaÃ�
 
 ---
 
-## B â€” Oportunidade
+## B — Oportunidade
 
-| Campo | InformaÃ§Ã£o |
+| Campo | Informação |
 |---|---|
-| B1 | CenÃ¡rio atual |
+| B1 | Cenário atual |
 | B2 | Principal problema / dor |
 | B3 | Objetivo do projeto |
 | B4 | Impacto |
-| B5 | UrgÃªncia |
+| B5 | Urgência |
 | B6 | Prazo desejado |
-| B7 | OrÃ§amento |
+| B7 | Orçamento |
 
 ---
 
-## C â€” Processo decisÃ³rio
+## C — Processo decisório
 
-| Campo | InformaÃ§Ã£o |
+| Campo | Informação |
 |---|---|
 | C1 | Decisor |
 | C2 | Influenciadores |
-| C3 | CritÃ©rios de decisÃ£o |
+| C3 | Critérios de decisão |
 | C4 | Concorrentes |
-| C5 | PrÃ³ximo passo comercial |
-| C6 | Data do prÃ³ximo contato |
+| C5 | Próximo passo comercial |
+| C6 | Data do próximo contato |
 
 ---
 
-## D â€” SoluÃ§Ã£o
+## D — Solução
 
-| Campo | InformaÃ§Ã£o |
+| Campo | Informação |
 |---|---|
-| D1 | ServiÃ§o(s) recomendado(s) |
+| D1 | Serviço(s) recomendado(s) |
 | D2 | Escopo |
 | D3 | Prazo |
-| D4 | Investimento por serviÃ§o |
+| D4 | Investimento por serviço |
 | D5 | Desconto |
 | D6 | Premissas |
-| D7 | ExclusÃµes |
+| D7 | Exclusões |
 
 ---
 
-## E â€” Controle interno
+## E — Controle interno
 
-| Campo | InformaÃ§Ã£o |
+| Campo | Informação |
 |---|---|
-| E1 | NÃºmero da proposta |
+| E1 | Número da proposta |
 | E2 | Consultor |
 | E3 | E-mail do consultor |
-| E4 | Data de emissÃ£o |
+| E4 | Data de emissão |
 | E5 | Idioma |
-| E6 | ObservaÃ§Ãµes |
+| E6 | Observações |
 
 ---
 
 # Opportunity Readiness
 
-Um dos componentes centrais do DealCraft AI Ã© o **Opportunity Readiness**.
+Um dos componentes centrais do DealCraft AI é o **Opportunity Readiness**.
 
-Ele Ã© um diagnÃ³stico determinÃ­stico de completude da oportunidade.
+Ele é um diagnóstico determinístico de completude da oportunidade.
 
-NÃ£o representa:
+Não representa:
 
 - probabilidade de fechamento;
 - lead scoring;
-- previsÃ£o de receita;
-- previsÃ£o de conversÃ£o.
+- previsão de receita;
+- previsão de conversão.
 
-O objetivo Ã© responder:
+O objetivo é responder:
 
-> **Temos informaÃ§Ãµes suficientes para estruturar esta oportunidade de maneira responsÃ¡vel?**
+> **Temos informações suficientes para estruturar esta oportunidade de maneira responsável?**
 
-SÃ£o avaliadas oito dimensÃµes:
+São avaliadas oito dimensões:
 
-| DimensÃ£o | CritÃ©rio |
+| Dimensão | Critério |
 |---|---|
 | Cliente | Cliente identificado |
 | Problema | Problema comercial definido |
 | Objetivo | Objetivo do projeto definido |
 | Impacto | Impacto conhecido |
-| Decisor | Processo decisÃ³rio identificado |
-| OrÃ§amento | OrÃ§amento informado |
+| Decisor | Processo decisório identificado |
+| Orçamento | Orçamento informado |
 | Prazo | Prazo conhecido |
-| SoluÃ§Ã£o | SoluÃ§Ã£o definida |
+| Solução | Solução definida |
 
-Cada dimensÃ£o recebe:
+Cada dimensão recebe:
 
 ```text
-1 = informaÃ§Ã£o disponÃ­vel
-0 = informaÃ§Ã£o ausente
+1 = informação disponível
+0 = informação ausente
 ```
 
-O cÃ¡lculo Ã©:
+O cálculo é:
 
 ```text
 Opportunity Readiness =
-dimensÃµes disponÃ­veis / 8 Ã— 100
+dimensões disponíveis / 8 × 100
 ```
 
-ClassificaÃ§Ã£o:
+Classificação:
 
-| Resultado | ClassificaÃ§Ã£o |
+| Resultado | Classificação |
 |---|---|
-| 0â€“49% | BAIXA COMPLETUDE |
-| 50â€“74% | COMPLETUDE PARCIAL |
-| 75â€“99% | BOA COMPLETUDE |
+| 0–49% | BAIXA COMPLETUDE |
+| 50–74% | COMPLETUDE PARCIAL |
+| 75–99% | BOA COMPLETUDE |
 | 100% | COMPLETUDE TOTAL |
 
-O indicador mede **completude da oportunidade**, e nÃ£o chance de venda.
+O indicador mede **completude da oportunidade**, e não chance de venda.
 
 ---
 
 # Gap Analysis
 
-ApÃ³s estruturar a oportunidade, o sistema identifica informaÃ§Ãµes obrigatÃ³rias ausentes.
+Após estruturar a oportunidade, o sistema identifica informações obrigatórias ausentes.
 
 Exemplos:
 
 ```text
-A7 â€” E-mail
-B3 â€” Objetivo do projeto
-B5 â€” UrgÃªncia
-D1 â€” ServiÃ§o recomendado
-D2 â€” Escopo
-D3 â€” Prazo
-D4 â€” Investimento
-E1 â€” NÃºmero da proposta
-E4 â€” Data de emissÃ£o
+A7 — E-mail
+B3 — Objetivo do projeto
+B5 — Urgência
+D1 — Serviço recomendado
+D2 — Escopo
+D3 — Prazo
+D4 — Investimento
+E1 — Número da proposta
+E4 — Data de emissão
 ```
 
-Quando existem lacunas obrigatÃ³rias, o fluxo Ã© interrompido.
+Quando existem lacunas obrigatórias, o fluxo é interrompido.
 
-O sistema nÃ£o deve completar esses campos por inferÃªncia.
+O sistema não deve completar esses campos por inferência.
 
 ---
 
-# CatÃ¡logo de serviÃ§os
+# Catálogo de serviços
 
-O DealCraft AI utiliza um catÃ¡logo estruturado de serviÃ§os.
+O DealCraft AI utiliza um catálogo estruturado de serviços.
 
-| ServiÃ§o | Prazo | Faixa de investimento |
+| Serviço | Prazo | Faixa de investimento |
 |---|---:|---:|
-| DiagnÃ³stico de TransformaÃ§Ã£o Digital | 10â€“20 dias | R$ 12.000â€“25.000 |
-| CRM & AutomaÃ§Ã£o Comercial | 30â€“60 dias | R$ 30.000â€“70.000 |
-| Marketing & Growth Intelligence | 30â€“60 dias | R$ 25.000â€“60.000 |
-| Data Analytics & BI | 30â€“75 dias | R$ 35.000â€“85.000 |
-| AutomaÃ§Ã£o com IA | 30â€“90 dias | R$ 40.000â€“120.000 |
-| Agentes de IA para NegÃ³cios | 30â€“75 dias | R$ 45.000â€“110.000 |
-| IntegraÃ§Ã£o de Sistemas & Dados | 30â€“90 dias | R$ 40.000â€“100.000 |
-| CapacitaÃ§Ã£o & AI Enablement | 5â€“20 dias | R$ 10.000â€“30.000 |
+| Diagnóstico de Transformação Digital | 10–20 dias | R$ 12.000–25.000 |
+| CRM & Automação Comercial | 30–60 dias | R$ 30.000–70.000 |
+| Marketing & Growth Intelligence | 30–60 dias | R$ 25.000–60.000 |
+| Data Analytics & BI | 30–75 dias | R$ 35.000–85.000 |
+| Automação com IA | 30–90 dias | R$ 40.000–120.000 |
+| Agentes de IA para Negócios | 30–75 dias | R$ 45.000–110.000 |
+| Integração de Sistemas & Dados | 30–90 dias | R$ 40.000–100.000 |
+| Capacitação & AI Enablement | 5–20 dias | R$ 10.000–30.000 |
 
-O catÃ¡logo possui uma representaÃ§Ã£o estruturada em JSON utilizada pelo mecanismo de validaÃ§Ã£o.
+O catálogo possui uma representação estruturada em JSON utilizada pelo mecanismo de validação.
 
 ---
 
 # Commercial Rules Engine
 
-Antes da geraÃ§Ã£o da proposta, o DealCraft AI verifica as regras comerciais da operaÃ§Ã£o.
+Antes da geração da proposta, o DealCraft AI verifica as regras comerciais da operação.
 
-Entre as regras implementadas estÃ£o:
+Entre as regras implementadas estão:
 
-- moeda padrÃ£o em BRL;
+- moeda padrão em BRL;
 - validade da proposta de 30 dias corridos;
-- investimento dentro da faixa definida no catÃ¡logo;
-- prazo dentro da faixa permitida para o serviÃ§o;
-- desconto permitido apenas para contrataÃ§Ã£o de dois ou mais serviÃ§os;
+- investimento dentro da faixa definida no catálogo;
+- prazo dentro da faixa permitida para o serviço;
+- desconto permitido apenas para contratação de dois ou mais serviços;
 - faixa de desconto permitida entre 5% e 15%;
-- oportunidades a partir de R$ 200.000 exigem revisÃ£o comercial;
-- serviÃ§os inexistentes no catÃ¡logo nÃ£o podem ser inventados;
-- informaÃ§Ãµes ausentes nÃ£o podem ser preenchidas artificialmente.
+- oportunidades a partir de R$ 200.000 exigem revisão comercial;
+- serviços inexistentes no catálogo não podem ser inventados;
+- informações ausentes não podem ser preenchidas artificialmente.
 
 ---
 
-# CondiÃ§Ãµes de pagamento
+# Condições de pagamento
 
-O padrÃ£o comercial utilizado pelo projeto Ã©:
+O padrão comercial utilizado pelo projeto é:
 
 ```text
-30% â€” contrataÃ§Ã£o
-40% â€” marco intermediÃ¡rio
-30% â€” entrega
+30% — contratação
+40% — marco intermediário
+30% — entrega
 ```
 
 O sistema calcula automaticamente os valores absolutos de cada parcela.
@@ -314,70 +314,70 @@ Exemplo para uma proposta de R$ 60.000:
 
 # Estados da oportunidade
 
-ApÃ³s as validaÃ§Ãµes, o DealCraft AI pode retornar os seguintes estados:
+Após as validações, o DealCraft AI pode retornar os seguintes estados:
 
 ```text
 APROVADO PARA RESUMO EXECUTIVO
-REQUER INFORMAÃ‡Ã•ES
-REQUER VALIDAÃ‡ÃƒO HUMANA
+REQUER INFORMAÇÕES
+REQUER VALIDAÇÃO HUMANA
 BLOQUEADO
 ```
 
-Somente oportunidades elegÃ­veis seguem para a etapa de resumo executivo.
+Somente oportunidades elegíveis seguem para a etapa de resumo executivo.
 
 ---
 
 # Human-in-the-Loop
 
-A geraÃ§Ã£o da proposta possui uma etapa explÃ­cita de aprovaÃ§Ã£o humana.
+A geração da proposta possui uma etapa explícita de aprovação humana.
 
-Mesmo depois de todas as validaÃ§Ãµes automÃ¡ticas, o documento nÃ£o Ã© criado imediatamente.
+Mesmo depois de todas as validações automáticas, o documento não é criado imediatamente.
 
 Primeiro, o DealCraft AI apresenta um **Resumo Executivo da Oportunidade**.
 
-Depois, o usuÃ¡rio precisa confirmar explicitamente:
+Depois, o usuário precisa confirmar explicitamente:
 
 ```text
 APROVAR
 ```
 
-Somente apÃ³s essa confirmaÃ§Ã£o o documento `.docx` Ã© gerado.
+Somente após essa confirmação o documento `.docx` é gerado.
 
-Esse mecanismo mantÃ©m a decisÃ£o comercial final sob responsabilidade humana.
+Esse mecanismo mantém a decisão comercial final sob responsabilidade humana.
 
 ---
 
-# Guardrails contra alucinaÃ§Ã£o
+# Guardrails contra alucinação
 
-O DealCraft AI foi projetado para evitar a criaÃ§Ã£o artificial de informaÃ§Ãµes comerciais.
+O DealCraft AI foi projetado para evitar a criação artificial de informações comerciais.
 
-O sistema nÃ£o deve inventar:
+O sistema não deve inventar:
 
 - clientes;
-- orÃ§amento;
+- orçamento;
 - impacto;
 - concorrentes;
 - decisores;
 - necessidades;
-- serviÃ§os;
-- preÃ§os;
+- serviços;
+- preços;
 - descontos;
 - prazos;
 - resultados esperados.
 
-Quando uma informaÃ§Ã£o nÃ£o existe, ela deve ser tratada como:
+Quando uma informação não existe, ela deve ser tratada como:
 
 ```text
-nÃ£o informado
+não informado
 ```
 
-Se o campo for obrigatÃ³rio, o sistema solicita complementaÃ§Ã£o ou bloqueia o fluxo.
+Se o campo for obrigatório, o sistema solicita complementação ou bloqueia o fluxo.
 
 ---
 
-# GeraÃ§Ã£o da proposta
+# Geração da proposta
 
-ApÃ³s a validaÃ§Ã£o e aprovaÃ§Ã£o humana, o DealCraft AI gera automaticamente uma proposta comercial profissional em formato:
+Após a validação e aprovação humana, o DealCraft AI gera automaticamente uma proposta comercial profissional em formato:
 
 ```text
 .docx
@@ -388,17 +388,17 @@ Estrutura do documento:
 ```text
 CAPA
 
-01 â€” Contexto e oportunidade
+01 — Contexto e oportunidade
 
-02 â€” SoluÃ§Ã£o proposta
+02 — Solução proposta
 
-03 â€” Escopo e entregÃ¡veis
+03 — Escopo e entregáveis
 
-04 â€” Cronograma
+04 — Cronograma
 
-05 â€” Investimento
+05 — Investimento
 
-06 â€” PrÃ³ximos passos
+06 — Próximos passos
 ```
 
 O documento inclui:
@@ -406,25 +406,25 @@ O documento inclui:
 - identidade visual;
 - dados do cliente;
 - contexto da oportunidade;
-- soluÃ§Ã£o proposta;
+- solução proposta;
 - escopo;
 - cronograma;
 - investimento;
-- condiÃ§Ãµes de pagamento;
+- condições de pagamento;
 - validade da proposta;
-- prÃ³ximo passo comercial;
-- responsÃ¡vel pela proposta;
-- paginaÃ§Ã£o automÃ¡tica.
+- próximo passo comercial;
+- responsável pela proposta;
+- paginação automática.
 
 ---
 
 # Identidade visual
 
-A empresa fictÃ­cia utilizada no projeto Ã©:
+A empresa fictícia utilizada no projeto é:
 
 ## NEXORA CONSULTING
 
-**Data Â· AI Â· Growth Â· Automation**
+**Data · AI · Growth · Automation**
 
 Paleta principal:
 
@@ -457,29 +457,32 @@ Calibri
 
 ```text
 DealCraft-AI/
-â”‚
-â”œâ”€â”€ DOCS/
-â”‚   â”œâ”€â”€ brand-book.json
-â”‚   â”œâ”€â”€ business-rules.md
-â”‚   â”œâ”€â”€ catalogo-servicos-dealcraft.md
-â”‚   â”œâ”€â”€ catalogo-servicos.json
-â”‚   â””â”€â”€ template-proposta.docx
-â”‚
-â”œâ”€â”€ examples/
-â”‚   â”œâ”€â”€ briefing-completo.txt
-â”‚   â””â”€â”€ briefing-incompleto.txt
-â”‚
-â”œâ”€â”€ outputs/
-â”‚   â””â”€â”€ propostas geradas
-â”‚
-â”œâ”€â”€ skill/
-â”‚   â””â”€â”€ SKILL.md
-â”‚
-â”œâ”€â”€ build_template.py
-â”œâ”€â”€ dealcraft_validator.py
-â”œâ”€â”€ dealcraft_summary.py
-â”œâ”€â”€ dealcraft_proposal.py
-â””â”€â”€ README.md
+│
+├── DOCS/
+│   ├── assets/
+│   │   └── dealcraft-ai-icon.png
+│   ├── brand-book.json
+│   ├── business-rules.md
+│   ├── catalogo-servicos-dealcraft.md
+│   ├── catalogo-servicos.json
+│   └── template-proposta.docx
+│
+├── examples/
+│   ├── briefing-completo.txt
+│   └── briefing-incompleto.txt
+│
+├── outputs/
+│   └── .gitkeep
+│
+├── skill/
+│   └── SKILL.md
+│
+├── .gitignore
+├── build_template.py
+├── dealcraft_validator.py
+├── dealcraft_summary.py
+├── dealcraft_proposal.py
+└── README.md
 ```
 
 ---
@@ -488,51 +491,51 @@ DealCraft-AI/
 
 ## `dealcraft_validator.py`
 
-ResponsÃ¡vel por:
+Responsável por:
 
-- extraÃ§Ã£o das informaÃ§Ãµes;
-- construÃ§Ã£o do Opportunity Model;
-- identificaÃ§Ã£o de campos ausentes;
+- extração das informações;
+- construção do Opportunity Model;
+- identificação de campos ausentes;
 - Opportunity Readiness;
-- leitura do catÃ¡logo;
-- validaÃ§Ã£o de preÃ§os;
-- validaÃ§Ã£o de prazos;
-- validaÃ§Ã£o de descontos;
-- condiÃ§Ãµes de pagamento;
+- leitura do catálogo;
+- validação de preços;
+- validação de prazos;
+- validação de descontos;
+- condições de pagamento;
 - regras comerciais;
-- definiÃ§Ã£o do status da oportunidade.
+- definição do status da oportunidade.
 
 ---
 
 ## `dealcraft_summary.py`
 
-ResponsÃ¡vel por:
+Responsável por:
 
-- criaÃ§Ã£o do resumo executivo;
-- apresentaÃ§Ã£o das informaÃ§Ãµes validadas;
-- preparaÃ§Ã£o da oportunidade para decisÃ£o humana;
-- solicitaÃ§Ã£o explÃ­cita de aprovaÃ§Ã£o.
+- criação do resumo executivo;
+- apresentação das informações validadas;
+- preparação da oportunidade para decisão humana;
+- solicitação explícita de aprovação.
 
 ---
 
 ## `dealcraft_proposal.py`
 
-ResponsÃ¡vel por:
+Responsável por:
 
-- executar a validaÃ§Ã£o;
+- executar a validação;
 - apresentar o resumo executivo;
-- solicitar aprovaÃ§Ã£o;
+- solicitar aprovação;
 - gerar a proposta;
 - aplicar identidade visual;
 - construir tabelas;
-- controlar paginaÃ§Ã£o;
+- controlar paginação;
 - gerar o arquivo `.docx`.
 
 ---
 
 ## `build_template.py`
 
-ResponsÃ¡vel pela construÃ§Ã£o do template documental utilizado como referÃªncia do projeto.
+Responsável pela construção do template documental utilizado como referência do projeto.
 
 ---
 
@@ -540,13 +543,13 @@ ResponsÃ¡vel pela construÃ§Ã£o do template documental utilizado como refer
 
 O projeto utiliza Python.
 
-DependÃªncia principal:
+Dependência principal:
 
 ```text
 python-docx
 ```
 
-InstalaÃ§Ã£o:
+Instalação:
 
 ```bash
 pip install python-docx
@@ -556,19 +559,19 @@ pip install python-docx
 
 # Como executar
 
-Clone o repositÃ³rio:
+Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/DealCraft-AI.git
+git clone https://github.com/MCLG1661/DealCraft-AI.git
 ```
 
-Entre no diretÃ³rio:
+Entre no diretório:
 
 ```bash
 cd DealCraft-AI
 ```
 
-Instale a dependÃªncia:
+Instale a dependência:
 
 ```bash
 pip install python-docx
@@ -582,7 +585,7 @@ pip install python-docx
 python dealcraft_validator.py examples/briefing-completo.txt
 ```
 
-Para visualizar o modelo extraÃ­do:
+Para visualizar o modelo extraído:
 
 ```bash
 python dealcraft_validator.py examples/briefing-completo.txt --debug
@@ -608,17 +611,17 @@ O sistema:
 
 ```text
 valida
-   â†“
+   ↓
 estrutura
-   â†“
+   ↓
 calcula readiness
-   â†“
+   ↓
 verifica regras
-   â†“
+   ↓
 gera resumo
-   â†“
-solicita aprovaÃ§Ã£o
-   â†“
+   ↓
+solicita aprovação
+   ↓
 gera proposta
 ```
 
@@ -630,11 +633,11 @@ APROVAR
 
 ---
 
-# CenÃ¡rios de teste
+# Cenários de teste
 
-O projeto possui dois briefings de referÃªncia.
+O projeto possui dois briefings de referência.
 
-## CenÃ¡rio positivo
+## Cenário positivo
 
 ```text
 examples/briefing-completo.txt
@@ -644,11 +647,11 @@ Resultado esperado:
 
 ```text
 Opportunity Readiness: 100%
-Campos obrigatÃ³rios: 17/17
+Campos obrigatórios: 17/17
 Status: APROVADO PARA RESUMO EXECUTIVO
 ```
 
-ApÃ³s aprovaÃ§Ã£o humana:
+Após aprovação humana:
 
 ```text
 PROPOSTA GERADA COM SUCESSO
@@ -656,18 +659,18 @@ PROPOSTA GERADA COM SUCESSO
 
 ---
 
-## CenÃ¡rio negativo
+## Cenário negativo
 
 ```text
 examples/briefing-incompleto.txt
 ```
 
-O sistema identifica campos obrigatÃ³rios ausentes e interrompe o processo.
+O sistema identifica campos obrigatórios ausentes e interrompe o processo.
 
 Resultado esperado:
 
 ```text
-REQUER INFORMAÃ‡Ã•ES
+REQUER INFORMAÇÕES
 ```
 
 Nenhuma proposta deve ser gerada.
@@ -676,16 +679,16 @@ Nenhuma proposta deve ser gerada.
 
 # Exemplo validado
 
-Durante os testes do projeto foi utilizada uma oportunidade fictÃ­cia da empresa:
+Durante os testes do projeto foi utilizada uma oportunidade fictícia da empresa:
 
 ```text
-TechNova DistribuiÃ§Ã£o Ltda.
+TechNova Distribuição Ltda.
 ```
 
-ServiÃ§o:
+Serviço:
 
 ```text
-CRM & AutomaÃ§Ã£o Comercial
+CRM & Automação Comercial
 ```
 
 Investimento:
@@ -703,7 +706,7 @@ Prazo:
 Opportunity Readiness:
 
 ```text
-8/8 dimensÃµes
+8/8 dimensões
 100%
 COMPLETUDE TOTAL
 ```
@@ -712,81 +715,81 @@ O fluxo completo foi validado:
 
 ```text
 Briefing
-   â†“
-ExtraÃ§Ã£o
-   â†“
+   ↓
+Extração
+   ↓
 Opportunity Model
-   â†“
+   ↓
 Opportunity Readiness
-   â†“
+   ↓
 Gap Analysis
-   â†“
+   ↓
 Commercial Rules Engine
-   â†“
+   ↓
 Executive Summary
-   â†“
+   ↓
 Human Approval
-   â†“
+   ↓
 DOCX
 ```
 
 ---
 
-# PrincÃ­pios do projeto
+# Princípios do projeto
 
-O DealCraft AI foi construÃ­do com cinco princÃ­pios:
+O DealCraft AI foi construído com cinco princípios:
 
-### 1. NÃ£o inventar dados comerciais
+### 1. Não inventar dados comerciais
 
-InformaÃ§Ãµes inexistentes permanecem inexistentes.
+Informações inexistentes permanecem inexistentes.
 
 ### 2. Validar antes de gerar
 
-A proposta Ã© consequÃªncia da validaÃ§Ã£o, nÃ£o o inÃ­cio do processo.
+A proposta é consequência da validação, não o início do processo.
 
-### 3. Separar completude de previsÃ£o
+### 3. Separar completude de previsão
 
-Opportunity Readiness nÃ£o representa probabilidade de fechamento.
+Opportunity Readiness não representa probabilidade de fechamento.
 
-### 4. Aplicar regras determinÃ­sticas
+### 4. Aplicar regras determinísticas
 
-PreÃ§o, prazo, desconto e condiÃ§Ãµes comerciais sÃ£o controlados por regras explÃ­citas.
+Preço, prazo, desconto e condições comerciais são controlados por regras explícitas.
 
-### 5. Manter decisÃ£o humana
+### 5. Manter decisão humana
 
-A proposta sÃ³ Ã© criada apÃ³s aprovaÃ§Ã£o explÃ­cita do usuÃ¡rio.
+A proposta só é criada após aprovação explícita do usuário.
 
 ---
 
 # Roadmap
 
-PossÃ­veis evoluÃ§Ãµes futuras:
+Possíveis evoluções futuras:
 
 ```text
 Interface web com Streamlit
-        â†“
-PersistÃªncia das oportunidades
-        â†“
-Suporte avanÃ§ado a mÃºltiplos serviÃ§os
-        â†“
-HistÃ³rico de aprovaÃ§Ãµes
-        â†“
-Brand Book totalmente dinÃ¢mico
-        â†“
-Templates comerciais configurÃ¡veis
-        â†“
-IntegraÃ§Ã£o com CRM
-        â†“
-LLM para extraÃ§Ã£o semÃ¢ntica
-        â†“
-RAG sobre catÃ¡logo e regras comerciais
-        â†“
+        ↓
+Persistência das oportunidades
+        ↓
+Suporte avançado a múltiplos serviços
+        ↓
+Histórico de aprovações
+        ↓
+Brand Book totalmente dinâmico
+        ↓
+Templates comerciais configuráveis
+        ↓
+Integração com CRM
+        ↓
+LLM para extração semântica
+        ↓
+RAG sobre catálogo e regras comerciais
+        ↓
 API
-        â†“
+        ↓
 Analytics comercial
 ```
 
-Essas funcionalidades nÃ£o fazem parte do nÃºcleo validado da versÃ£o atual.
+Essas funcionalidades não fazem parte do núcleo validado da versão atual.
 
 ---
 
@@ -804,42 +807,56 @@ Essas funcionalidades nÃ£o fazem parte do nÃºcleo validado da versÃ£o atua
 
 # Contexto de desenvolvimento
 
-O DealCraft AI foi desenvolvido como projeto prÃ¡tico de aplicaÃ§Ã£o de conceitos de **Agentes de IA para NegÃ³cios**, combinando automaÃ§Ã£o, engenharia de regras, estruturaÃ§Ã£o de dados, validaÃ§Ã£o comercial e Human-in-the-Loop.
+O DealCraft AI foi desenvolvido como projeto prático de aplicação de conceitos de **Agentes de IA para Negócios**, combinando automação, engenharia de regras, estruturação de dados, validação comercial e Human-in-the-Loop.
 
-O projeto parte de um problema real de processos comerciais B2B: transformar informaÃ§Ãµes nÃ£o estruturadas de uma oportunidade em uma proposta comercial consistente sem permitir que automaÃ§Ã£o ou IA preencham lacunas com informaÃ§Ãµes nÃ£o verificadas.
+O projeto parte de um problema real de processos comerciais B2B: transformar informações não estruturadas de uma oportunidade em uma proposta comercial consistente sem permitir que automação ou IA preencham lacunas com informações não verificadas.
 
 ---
 
-# Autor
+# 🙏 Agradecimentos
 
-**Marcus Guedes**
+Este projeto foi desenvolvido a partir dos conhecimentos e desafios propostos na **Imersão ONE — Agentes de IA para Negócios**, promovida pela **Oracle Next Education (ONE) em parceria com a Alura**.
 
-Marketing Â· GestÃ£o Â· InteligÃªncia Artificial Â· Data Analytics Â· Projetos Â· TransformaÃ§Ã£o Digital
+Meu agradecimento a **Amanda Gelembauskas (Latam Head of Oracle Next Education)**, aos instrutores, **Christian Velasco (Diretor da Alura Latam)**, **Eric Oliveira (Supervisor de conteúdo na Alura Latam)** e **Leon Kulikoswki (Senior Solution Engineering Manager na Oracle)**, aos especialistas e às equipes da **Oracle** e da **Alura** pela iniciativa, pelo conteúdo compartilhado e pela oportunidade de explorar, na prática, a aplicação de agentes de Inteligência Artificial em problemas reais de negócio.
 
-GitHub: `MCLG1661`
+Durante essa jornada, o **ARI NEWS** representou uma das primeiras aplicações práticas desenvolvidas a partir dos exercícios da Imersão, explorando o uso de agentes de IA na coleta, organização e transformação de informações em inteligência útil para negócios.
+
+A evolução desse aprendizado levou ao desenvolvimento do **DealCraft AI**, um projeto independente voltado ao processo comercial B2B. A solução amplia a aplicação dos conceitos trabalhados durante a Imersão ao incorporar **Opportunity Model, Opportunity Readiness, Gap Analysis, catálogo estruturado de serviços, regras comerciais determinísticas, Human-in-the-Loop, guardrails contra informações não verificadas e geração controlada de propostas comerciais**.
+
+Mais do que concluir exercícios isolados, o objetivo foi transformar o aprendizado em projetos funcionais, documentados, testáveis e replicáveis, demonstrando uma evolução prática na aplicação de **Inteligência Artificial, automação, dados e regras de negócio** a problemas reais.
+
+---
+
+# 👤 Autor
+
+## Marcus Corrêa Lopes Guedes
+
+Profissional com atuação multidisciplinar em **Marketing, Gestão, Inteligência Artificial, Data Analytics, Projetos e Transformação Digital**, desenvolvendo soluções que conectam estratégia de negócios, tecnologia e dados.
+
+- **LinkedIn:** [Marcus Corrêa Lopes Guedes](https://www.linkedin.com/in/marcusguedes/)
+- **GitHub:** [MCLG1661](https://github.com/MCLG1661)
 
 ---
 
 ## Status do projeto
 
-**DealCraft AI v1.0 â€” NÃºcleo tÃ©cnico concluÃ­do e validado.**
+**DealCraft AI v1.0.0 — Núcleo técnico concluído e validado.**
 
 ```text
-Opportunity Model        âœ…
-Opportunity Readiness    âœ…
-Gap Analysis             âœ…
-Service Catalog          âœ…
-Commercial Rules Engine  âœ…
-Executive Summary        âœ…
-Human Approval           âœ…
-DOCX Generation          âœ…
-Positive E2E Test        âœ…
-Negative E2E Test        âœ…
+Opportunity Model         ✅
+Opportunity Readiness     ✅
+Gap Analysis              ✅
+Service Catalog           ✅
+Commercial Rules Engine   ✅
+Executive Summary         ✅
+Human Approval            ✅
+DOCX Generation           ✅
+Positive E2E Test         ✅
+Negative E2E Test         ✅
 ```
 
 ---
 
 **DealCraft AI**
 
-*Transforme oportunidades comerciais em propostas estruturadas, consistentes e prontas para decisÃ£o.*
-
+*Transforme oportunidades comerciais em propostas estruturadas, consistentes e prontas para decisão.*
