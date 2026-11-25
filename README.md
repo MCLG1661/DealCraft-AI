@@ -16,6 +16,14 @@ A solução foi projetada com um princípio central:
 
 ---
 
+## Aplicação em serviços B2B
+
+Em consultorias e empresas de serviços, o fluxo pode apoiar a qualificação de briefings, a identificação de informações faltantes e a padronização de propostas antes da aprovação humana. Trata-se de apoio à decisão, não de um CRM integrado ou previsão de vendas.
+
+Projetos complementares: [Marketing Intelligence AI](https://github.com/MCLG1661/Marketing-Intelligence-AI) (planejamento e análise de marketing) e [ARI Flow](https://github.com/MCLG1661/ARI-Flow) (triagem de e-mails). São soluções independentes, sem integração técnica implementada entre elas.
+
+---
+
 ## Visão geral
 
 Em processos comerciais B2B, propostas frequentemente são construídas a partir de informações dispersas em reuniões, anotações, e-mails e briefings.
