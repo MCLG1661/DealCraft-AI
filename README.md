@@ -19,6 +19,9 @@ A solução foi projetada com um princípio central:
 
 A B2B sales intelligence system that structures commercial briefings, assesses opportunity readiness, identifies missing information and validates business rules before generating proposals. Human approval remains central. It supports commercial decision-making rather than predicting sales or replacing a CRM.
 
+
+[Business Case Study — English](BUSINESS_CASE.md)
+
 ---
 
 ## Aplicação em serviços B2B
