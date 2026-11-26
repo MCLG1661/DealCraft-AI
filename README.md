@@ -14,6 +14,11 @@ A solução foi projetada com um princípio central:
 
 > **A IA pode apoiar a estruturação da oportunidade, mas não deve inventar informações comerciais nem substituir a decisão humana.**
 
+
+## English overview
+
+A B2B sales intelligence system that structures commercial briefings, assesses opportunity readiness, identifies missing information and validates business rules before generating proposals. Human approval remains central. It supports commercial decision-making rather than predicting sales or replacing a CRM.
+
 ---
 
 ## Aplicação em serviços B2B
