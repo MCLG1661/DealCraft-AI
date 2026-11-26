@@ -975,9 +975,9 @@ def parse_brl(value):
     if not is_available(value):
         return None
 
-    text = str(value)
+    text = str(value).strip()
 
-    match = re.search(
+    match = re.fullmatch(
         (
             r"(?:R\$\s*)?"
             r"(\d{1,3}(?:\.\d{3})*|\d+)"
